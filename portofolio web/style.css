@@ -225,23 +225,23 @@ span {
 @keyframes words {
   0%,
   20% {
-    content: "Web Developer";
+    content: "Pharmacist";
   }
   21%,
   40% {
-    content: "Graphic Designer";
+    content: "Pharmacy Consultant";
   }
   41%,
   60% {
-    content: "Web Designer";
+    content: "Medical Writer";
   }
   61%,
   80% {
-    content: "Youtuber";
+    content: "Academic Tutor";
   }
   81%,
   100% {
-    content: "Script Writer";
+    content: "Pharmacy Owner";
   }
 }
 
@@ -270,3 +270,4 @@ span {
     margin-top: 4rem;
   }
 }   
+
